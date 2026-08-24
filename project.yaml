@@ -1,44 +1,58 @@
 # .project metadata for NATS
 # Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
-
-# TODO: Add adopters list (ADOPTERS.md)
 # TODO: Add package_managers if distributed via registries
 
 schema_version: "1.0.0"
 slug: "nats"
 name: "NATS"
-description: "NATS.io is a connective technology for distributed systems and is a perfect fit to connect devices, edge, cloud or hybrid deployments. True multi-tenancy makes NATS ideal for SaaS and self-healing and scaling technology allows for topology changes anytime with zero downtime."
+description: "Real-Time Communication Fabric for Distributed Agents and Applications. NATS unifies messaging, streaming, and state into one real-time system — connecting services, devices, and AI agents from cloud to edge."
 type: "project"
-project_lead: "ColinSullivan1" # TODO: AUTO-DETECTED — please verify
-slack_channels: # TODO: AUTO-DETECTED — please verify the channel(s) below
-  - name: "#e01563"
-    primary: true
-  - name: "#general"
-  - name: "#dotnet"
+project_lead: "derekcollison"
+slack_channels:
+  - name: "#nats"
+    primary: false
 
 maturity_log:
   - phase: "incubating"
     date: "2018-03-15T00:00:00Z"
-    issue: "https://github.com/cncf/toc/issues/2042" # TODO: AUTO-DETECTED — please verify
+    issue: "https://github.com/cncf/toc/issues/2042"
 
 repositories:
   - "https://github.com/nats-io/nats-server"
+  - "https://github.com/nats-io/nats.go"
+  - "https://github.com/nats-io/nats.rs"
+  - "https://github.com/nats-io/nats.py"
+  - "https://github.com/nats-io/nats.java"
+  - "https://github.com/nats-io/nats.net"
+  - "https://github.com/nats-io/nats.c"
+  - "https://github.com/nats-io/nats.js"
+  - "https://github.com/nats-io/natscli"
+  - "https://github.com/nats-io/nsc"
+  - "https://github.com/nats-io/nack"
+  - "https://github.com/nats-io/k8s"
+  - "https://github.com/nats-io/nats-surveyor"
+  - "https://github.com/nats-io/prometheus-nats-exporter"
+  - "https://github.com/nats-io/nats-architecture-and-design"
 
 website: "https://nats.io/"
 
 artwork: "https://landscape.cncf.io/logos/nats.svg"
 
-# TODO: Add ADOPTERS.md if your project tracks adopters
-# adopters:
-#   path: "https://github.com/nats-io/nats-server/blob/main/ADOPTERS.md"
-
+adopters:
+  path: "https://github.com/nats-io/nats-general/blob/main/ADOPTERS.md"
 
 # TODO: Add package manager identifiers if your project is distributed via registries
-# package_managers:
-#   docker: "nats-io/nats-server"
+package_managers:
+  docker: "nats-io/nats-server"
+  npm: "@nats-io/nats-core"
+  nixpkgs: "https://github.com/NixOS/nixpkgs"
 
 social:
   twitter: "https://twitter.com/nats_io"
+  youtube: "https://www.youtube.com/@NATS_io"
+  
+mailing_lists:
+  - "https://groups.google.com/g/natsio"
 
 security:
   policy:
@@ -56,14 +70,16 @@ legal:
   license:
     path: "https://github.com/nats-io/nats-server/blob/main/LICENSE"
   identity_type:
-    has_dco: true # AUTO-DETECTED — please verify
-    has_cla: false # AUTO-DETECTED — please verify
+    has_dco: true
+    has_cla: false
     dco_url:
       path: "https://developercertificate.org/"
 
 documentation:
   readme:
     path: "https://github.com/nats-io/nats-server/blob/main/README.md"
+  api:
+    path: "https://docs.nats.io"
 
 landscape:
   category: "App Definition and Development"
