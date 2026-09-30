@@ -14,141 +14,165 @@ maintainers:
     github_username: sasbury
     github_url: https://github.com/sasbury
     affiliation: Striveworks
+    managed: true
 
   - name: Lev Brouk
     contact: levbrouk@gmail.com
     github_username: levb
     github_url: https://github.com/levb
     affiliation: Independent
+    managed: true
 
   - name: Derek Collison
     contact: derek@nats.io
     github_username: derekcollison
     github_url: https://github.com/derekcollison
     affiliation: Synadia
+    managed: true
 
   - name: Ginger Collison
     contact: ginger@nats.io
     github_username: gcolliso
     github_url: https://github.com/gcolliso
     affiliation: Synadia
+    managed: true
 
   - name: Scott Fauerbach
     contact: scott@nats.io
     github_username: scottf
     github_url: https://github.com/scottf
     affiliation: Synadia
+    managed: true
 
   - name: Matthias Hanel
     contact: hanel.matthias@gmail.com
     github_username: matthiashanel
     github_url: https://github.com/matthiashanel
     affiliation: Independent
+    managed: true
 
   - name: David Kemper
     contact: davidjkemper@gmail.com
     github_username: davidkemper
     github_url: https://github.com/davidkemper
     affiliation: Independent
+    managed: true
 
   - name: Ivan Kozlovic
     contact: ijkozlovic@gmail.com
     github_username: kozlovic
     github_url: https://github.com/kozlovic
     affiliation: Independent
+    managed: true
 
   - name: Yuna Morgenstern
     contact: yuna.braska@icloud.com
     github_username: YunaBraska
     github_url: https://github.com/YunaBraska
     affiliation: NanoNative
+    managed: true
 
   - name: Phil Pennock
     contact: phil-cncf-nats@pennock-tech.com
     github_username: philpennock
     github_url: https://github.com/philpennock
     affiliation: Synadia
+    managed: true
 
   - name: R.I. Pienaar
     contact: rip@devco.net
     github_username: ripienaar
     github_url: https://github.com/ripienaar
     affiliation: Pinetec Limited
+    managed: true
 
   - name: Tomasz Pietrek
     contact: tomasz@nats.io
     github_username: jarema
     github_url: https://github.com/jarema
     affiliation: Kajabi
+    managed: true
 
   - name: Piotr Piotrowski
     contact: piotr@nats.io
     github_username: piotrpio
     github_url: https://github.com/piotrpio
     affiliation: Synadia
+    managed: true
 
   - name: Paulo Pires
     contact: pjpires@gmail.com
     github_username: pires
     github_url: https://github.com/pires
     affiliation: NN Group
+    managed: true
 
   - name: Waldemar Quevedo
     contact: wally@nats.io
     github_username: wallyqs
     github_url: https://github.com/wallyqs
     affiliation: Synadia
+    managed: true
 
   - name: Alberto Ricart
     contact: alberto@nats.io
     github_username: aricart
     github_url: https://github.com/aricart
     affiliation: Synadia
+    managed: true
 
   - name: Michael Ries
     contact: riesmmm@gmail.com
     github_username: mmmries
     github_url: https://github.com/mmmries
     affiliation: Salesforce
+    managed: true
 
   - name: Byron Ruth
     contact: byron@nats.io
     github_username: bruth
     github_url: https://github.com/bruth
     affiliation: Synadia
+    managed: true
 
   - name: Brian Shannan
     contact: brianshannan@gmail.com
     github_username: brianshannan
     github_url: https://github.com/brianshannan
     affiliation: Workiva
+    managed: true
 
   - name: Oleg Shaldybin
     contact: olegsh@google.com
     github_username: olegshaldybin
     github_url: https://github.com/olegshaldybin
     affiliation: Independent
+    managed: true
 
   - name: Charlie Strawn
     contact: cdstrawn@gmail.com
     github_username: charliestrawn
     github_url: https://github.com/charliestrawn
     affiliation: Workiva
+    managed: true
 
   - name: Colin Sullivan
     contact: colin@luxantsolutions.com
     github_username: ColinSullivan1
     github_url: https://github.com/ColinSullivan1
     affiliation: Luxor Solutions
+    managed: true
 
   - name: Neil Twigg
     contact: neil@nats.io
     github_username: neilalexander
     github_url: https://github.com/neilalexander
     affiliation: Synadia
+    managed: true
 
   - name: Christopher Watford
     contact: christopher.watford@gmail.com
     github_username: sixlettervariables
     github_url: https://github.com/sixlettervariables
     affiliation: Essential Personnel
+    managed: true
