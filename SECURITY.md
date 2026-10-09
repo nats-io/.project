@@ -1,11 +1,3 @@
 # Security Policy
 
-## Reporting Security Issues
-
-The NATS maintainers take security seriously. We appreciate your efforts to responsibly disclose your findings.
-
-**Please do not report security vulnerabilities through public GitHub issues.**
-
-Instead, please report them through our [private vulnerability reporting](https://github.com/nats-io/nats-server/security/advisories/new) form.
-
-For more details, see the [NATS security policy](https://github.com/nats-io/nats-server/blob/main/SECURITY.md).
+This lives in [NATS-general repo security policy](https://github.com/nats-io/nats-general/blob/main/SECURITY.md).
