@@ -90,7 +90,7 @@ mailing_lists:
 
 security:
   policy:
-    path: "https://github.com/nats-io/nats-server/blob/main/SECURITY.md"
+    path: "https://github.com/nats-io/nats-general/blob/main/SECURITY.md"
   contact:
     advisory_url: "https://github.com/nats-io/nats-server/security/advisories/new"
 
