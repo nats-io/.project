@@ -70,7 +70,7 @@ repositories:
 
 website: "https://nats.io/"
 
-artwork: "https://landscape.cncf.io/logos/nats.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/nats"
 
 adopters:
   path: "https://github.com/nats-io/nats-general/blob/main/ADOPTERS.md"
